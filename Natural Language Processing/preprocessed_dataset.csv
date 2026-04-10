@@ -1,0 +1,101 @@
+review_text,sentiment,review_char_count,word_count,lowercase_review,label_encoded,processed_text
+Taste of the food is nice but the dining and hygiene of the restaurant was not nice,neutral,83,17,taste of the food is nice but the dining and hygiene of the restaurant was not nice,0.0,taste food nice dining hygiene restaurant nice
+Seemed to be very dark in the catalogue but when arrived the color fades after washing,negative,86,16,seemed to be very dark in the catalogue but when arrived the color fades after washing,-1.0,seemed dark catalogue arrived color fades washing
+"Material is not nice but I like print and pattern, for this cost it worth only",neutral,78,16,"material is not nice but i like print and pattern, for this cost it worth only",0.0,material nice like print pattern cost worth
+The quality is not anything that I'd put up in my home to try,negative,61,14,the quality is not anything that i'd put up in my home to try,-1.0,quality anything put home try
+Durability is a concern but apart from that all other factors are good,neutral,70,13,durability is a concern but apart from that all other factors are good,0.0,durability concern apart factors good
+The product is nice only but not as expected because of the fitting,neutral,67,13,the product is nice only but not as expected because of the fitting,0.0,product nice expected fitting
+Actign is good and fight scenes were nice but not the story,neutral,59,12,actign is good and fight scenes were nice but not the story,0.0,actign good fight scenes nice story
+The experience was good and I would recommend it to others,positive,58,11,the experience was good and i would recommend it to others,1.0,experience good would recommend others
+water leakage issues because water pours out of the holes.,negative,58,10,water leakage issues because water pours out of the holes.,-1.0,water leakage issues water pours holes
+This is one of the best purchases I have made,positive,45,10,this is one of the best purchases i have made,1.0,one best purchases made
+This is one of the worst products I have used,negative,45,10,this is one of the worst products i have used,-1.0,one worst products used
+Good material and patterns but don’t like the fitting,neutral,53,9,good material and patterns but don’t like the fitting,0.0,good material patterns like fitting
+The delivery was fast and the packaging was secure,positive,50,9,the delivery was fast and the packaging was secure,1.0,delivery fast packaging secure
+The product quality is excellent and exceeded my expectations,positive,61,9,the product quality is excellent and exceeded my expectations,1.0,product quality excellent exceeded expectations
+"it’s high-quality, powerful, lightweight, and does a great job",positive,62,9,"it’s high-quality, powerful, lightweight, and does a great job",1.0,powerful lightweight great job
+I am very satisfied with the service provided,positive,45,8,i am very satisfied with the service provided,1.0,satisfied service provided
+It does what it is supposed to do,neutral,33,8,it does what it is supposed to do,0.0,supposed
+It saves a lot of time and effort,positive,33,8,it saves a lot of time and effort,1.0,saves lot time effort
+The product stopped working after a few days,negative,44,8,the product stopped working after a few days,-1.0,product stopped working days
+The interface is clean and easy to use,positive,38,8,the interface is clean and easy to use,1.0,interface clean easy use
+The app is usable but not very exciting,neutral,39,8,the app is usable but not very exciting,0.0,app usable exciting
+You can watch the movie but not worthable,neutral,41,8,you can watch the movie but not worthable,0.0,watch movie worthable
+The updates have improved the product a lot,positive,43,8,the updates have improved the product a lot,1.0,updates improved product lot
+Ever worst utter flop movie in the world ,negative,41,8,ever worst utter flop movie in the world ,-1.0,ever worst utter flop movie world
+It looks fine but could be improved,neutral,35,7,it looks fine but could be improved,0.0,looks fine could improved
+Amazing performance and great value for money,positive,45,7,amazing performance and great value for money,1.0,amazing performance great value money
+The quality is decent for the price,neutral,35,7,the quality is decent for the price,0.0,quality decent price
+I think the product meets basic expectations,neutral,44,7,i think the product meets basic expectations,0.0,think product meets basic expectations
+I am disappointed with the overall performance,negative,46,7,i am disappointed with the overall performance,-1.0,disappointed overall performance
+Delivery was delayed and packaging was damaged,negative,46,7,delivery was delayed and packaging was damaged,-1.0,delivery delayed packaging damaged
+The product is reliable and well designed,positive,41,7,the product is reliable and well designed,1.0,product reliable well designed
+The support team resolved my issue quickly,positive,42,7,the support team resolved my issue quickly,1.0,support team resolved issue quickly
+The experience was neither good nor bad,neutral,39,7,the experience was neither good nor bad,0.0,experience neither good bad
+The quality is very poor and unacceptable,negative,41,7,the quality is very poor and unacceptable,-1.0,quality poor unacceptable
+"No major complaints, but no highlights either",neutral,45,7,"no major complaints, but no highlights either",0.0,major complaints highlights either
+Doesn’t take up a ton of space,positive,30,7,doesn’t take up a ton of space,1.0,take ton space
+Everything was smooth from start to finish,positive,42,7,everything was smooth from start to finish,1.0,everything smooth start finish
+I would not recommend this to anyone,negative,36,7,i would not recommend this to anyone,-1.0,would recommend anyone
+"Works well, heats fast, good steam output. ",positive,43,7,"works well, heats fast, good steam output. ",1.0,works well heats fast good steam output
+I am impressed with the build quality,positive,37,7,i am impressed with the build quality,1.0,impressed build quality
+The product is neither impressive nor disappointing,neutral,51,7,the product is neither impressive nor disappointing,0.0,product neither impressive disappointing
+I faced many issues while using it,negative,34,7,i faced many issues while using it,-1.0,faced many issues using
+I have mixed feelings about this product,neutral,40,7,i have mixed feelings about this product,0.0,mixed feelings product
+The design feels cheap and poorly made,negative,38,7,the design feels cheap and poorly made,-1.0,design feels cheap poorly made
+"Nice iron, good value for the price.",positive,36,7,"nice iron, good value for the price.",1.0,nice iron good value price
+I am very pleased with the results,positive,34,7,i am very pleased with the results,1.0,pleased results
+Works flawlessly even under heavy use,positive,37,6,works flawlessly even under heavy use,1.0,works flawlessly even heavy use
+It is okay but nothing special,neutral,30,6,it is okay but nothing special,0.0,okay nothing special
+The experience was frustrating and annoying,negative,43,6,the experience was frustrating and annoying,-1.0,experience frustrating annoying
+Not worth the money at all,negative,26,6,not worth the money at all,-1.0,worth money
+The features are impressive and useful,positive,38,6,the features are impressive and useful,1.0,features impressive useful
+Very happy with the overall experience,positive,38,6,very happy with the overall experience,1.0,happy overall experience
+Customer support was helpful and responsive,positive,43,6,customer support was helpful and responsive,1.0,customer support helpful responsive
+Everything worked perfectly without any issues,positive,46,6,everything worked perfectly without any issues,1.0,everything worked perfectly without issues
+The app runs fast and efficiently,positive,33,6,the app runs fast and efficiently,1.0,app runs fast efficiently
+The product feels premium and durable,positive,37,6,the product feels premium and durable,1.0,product feels premium durable
+The performance is slow and unreliable,negative,38,6,the performance is slow and unreliable,-1.0,performance slow unreliable
+I am unhappy with this purchase,negative,31,6,i am unhappy with this purchase,-1.0,unhappy purchase
+Highly recommended for beginners and professionals,positive,50,6,highly recommended for beginners and professionals,1.0,highly recommended beginners professionals
+I would definitely buy this again,positive,33,6,i would definitely buy this again,1.0,would definitely buy
+Customer service was rude and unhelpful,negative,39,6,customer service was rude and unhelpful,-1.0,customer service rude unhelpful
+The service was average and acceptable,neutral,38,6,the service was average and acceptable,0.0,service average acceptable
+I really enjoyed using this application,positive,39,6,i really enjoyed using this application,1.0,really enjoyed using application
+It works most of the time,neutral,25,6,it works most of the time,0.0,works time
+The instructions were unclear and confusing,negative,43,6,the instructions were unclear and confusing,-1.0,instructions unclear confusing
+The product broke within a week,negative,31,6,the product broke within a week,-1.0,product broke within week
+It does not work as advertised,negative,30,6,it does not work as advertised,-1.0,work advertised
+It functions normally without problems,neutral,38,5,it functions normally without problems,0.0,functions normally without problems
+The setup process was straightforward,neutral,37,5,the setup process was straightforward,0.0,setup process straightforward
+Too many bugs and errors,negative,24,5,too many bugs and errors,-1.0,many bugs errors
+I regret buying this product,negative,28,5,i regret buying this product,-1.0,regret buying product
+Smooth performance and great usability,positive,38,5,smooth performance and great usability,1.0,smooth performance great usability
+The response time was reasonable,neutral,32,5,the response time was reasonable,0.0,response time reasonable
+The product works as described,neutral,30,5,the product works as described,0.0,product works described
+it doesn't get hot enough,negative,25,5,it doesn't get hot enough,-1.0,get hot enough
+Nice only but not good,neutral,22,5,nice only but not good,0.0,nice good
+The service exceeded my expectations,positive,36,5,the service exceeded my expectations,1.0,service exceeded expectations
+The product arrived on time,neutral,27,5,the product arrived on time,0.0,product arrived time
+Great user experience and design,positive,32,5,great user experience and design,1.0,great user experience design
+The application crashes frequently,negative,34,4,the application crashes frequently,-1.0,application crashes frequently
+Overall a fantastic experience,positive,30,4,overall a fantastic experience,1.0,overall fantastic experience
+The experience was standard,neutral,27,4,the experience was standard,0.0,experience standard
+Nothing particularly stands out,neutral,31,4,nothing particularly stands out,0.0,nothing particularly stands
+The performance is acceptable,neutral,29,4,the performance is acceptable,0.0,performance acceptable
+effective at quickly processing,positive,31,4,effective at quickly processing,1.0,effective quickly processing
+Worth every penny spent,positive,23,4,worth every penny spent,1.0,worth every penny spent
+Customer support never responded,negative,32,4,customer support never responded,-1.0,customer support never responded
+Excellent attention to detail,positive,29,4,excellent attention to detail,1.0,excellent attention detail
+Worst product ever bought,negative,25,4,worst product ever bought,-1.0,worst product ever bought
+Not worth the price,negative,19,4,not worth the price,-1.0,worth price
+I am impressed ,positive,15,3,i am impressed ,1.0,impressed
+DO NOT BUY.,negative,11,3,do not buy.,-1.0,buy
+Premium quality,positive,15,2,premium quality,1.0,premium quality
+,,0,0,,,nan
+,,0,0,,,nan
+,positive,0,0,,1.0,nan
+,,0,0,,,nan
+,,0,0,,,nan
+,,0,0,,,nan
+,neutral,0,0,,0.0,nan
